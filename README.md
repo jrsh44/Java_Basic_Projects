@@ -1,7 +1,7 @@
 ## Basic Java Projects
 In this repo I present some basic project that I completed while learing Java.
 ## Sections:
- - Fundamentals:
-  * Arrays
+- Fundamentals:
+  * Loops, Arrays
   * Classes
   * GUI
